@@ -113,18 +113,6 @@ Contributing to open source projects
 
 ---
 
-<!-- ========================= GitHub Trophies ========================= -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=sinass00&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
-
----
-
 <!-- ====================== Contribution Activity ====================== -->
 
 <h2 align="center">📈 Contribution Activity</h2>
