@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="ssinashz@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -46,11 +46,11 @@
 
 # About Me
 
-I am a Computer Science student at the University of Vienna, passionate about building secure, scalable, and efficient software systems.
+am a Computer Science student at the University of Vienna with a strong interest in designing and developing secure, scalable, and high-performance software systems.
 
-My main interests include backend development, cybersecurity, artificial intelligence, databases, cloud technologies, and software architecture.
+My focus areas include backend engineering, cybersecurity, artificial intelligence, database systems, cloud computing, and software architecture. I enjoy building reliable solutions, exploring modern technologies, and applying engineering principles to solve complex technical challenges.
 
-I enjoy solving complex problems, designing reliable systems, and continuously improving my programming and engineering skills.
+I am continuously expanding my knowledge through academic projects, hands-on development, and real-world problem solving, with the goal of creating efficient, maintainable, and impactful software.
 
 ## Open To
 
@@ -59,7 +59,6 @@ I enjoy solving complex problems, designing reliable systems, and continuously i
 - Cybersecurity Projects
 - Cloud Engineering
 - Open Source Collaboration
-- AI & Machine Learning Projects
 
 ---
 
@@ -69,7 +68,7 @@ I enjoy solving complex problems, designing reliable systems, and continuously i
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,rust,js,ts,bash"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,rust,shell,bash"/>
 
 </p>
 
@@ -78,16 +77,7 @@ I enjoy solving complex problems, designing reliable systems, and continuously i
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express,firebase,mysql,postgres,mongodb,sqlite"/>
-
-</p>
-
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=flask,mysql,postgres,mongodb"/>
 
 </p>
 
@@ -96,7 +86,7 @@ I enjoy solving complex problems, designing reliable systems, and continuously i
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,idea,postman"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vscode"/>
 
 </p>
 
@@ -107,23 +97,10 @@ I enjoy solving complex problems, designing reliable systems, and continuously i
 | Area | Technologies |
 |------|--------------|
 | Backend Development | Python, Flask, Java, REST APIs |
-| Databases | SQL, PostgreSQL, MySQL, MongoDB |
+| Databases | SQL, MySQL, MongoDB |
 | Cybersecurity | Networking, Linux, Security Fundamentals |
-| Data Science | Python, NumPy, Pandas, Data Analysis |
-| Mobile Development | React Native, Expo, Firebase |
+| Data Science | Python, NumPy,|
 | Software Engineering | OOP, Design Patterns, Testing, Git |
-
----
-
-# AI / Machine Learning Interests
-
-| Domain | Focus |
-|--------|-------|
-| Machine Learning | Supervised & Unsupervised Learning |
-| Deep Learning | Neural Networks & Modern Architectures |
-| NLP | Large Language Models & AI Applications |
-| Data Engineering | Data Processing & Database Systems |
-| Generative AI | LLM APIs, RAG Systems |
 
 ---
 
@@ -133,8 +110,6 @@ I enjoy solving complex problems, designing reliable systems, and continuously i
 - Cybersecurity & Ethical Hacking
 - Artificial Intelligence
 - Cloud Infrastructure
-- Distributed Systems
-- Software Architecture
 - Database Engineering
 - Open Source Development
 
