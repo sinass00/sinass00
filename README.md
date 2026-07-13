@@ -1,29 +1,18 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A192F,50:0F4C75,100:00BFFF&text=Seyedsina%20Shariatzadeh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A192F,50:0F4C75,100:00BFFF&text=Seyedsina%20Shariatzadeh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Computer+Science+Student;Backend+Engineering+%7C+Cybersecurity+%7C+Cloud" />
-  
 <p align="center">
-
-<img src="https://img.shields.io/badge/University-University%20of%20Vienna-1E90FF?style=for-the-badge&labelColor=0B1F3A&logo=google-scholar&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Degree-BSc%20Computer%20Science-1E90FF?style=for-the-badge&labelColor=0B1F3A&logo=academia&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Location-Vienna%2C%20Austria-1E90FF?style=for-the-badge&labelColor=0B1F3A&logo=googlemaps&logoColor=white"/>
-
+  <img height="32" src="https://img.shields.io/badge/University-University%20of%20Vienna-1E90FF?style=flat&labelColor=0B1F3A&logo=google-scholar&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/Degree-BSc%20Computer%20Science-1E90FF?style=flat&labelColor=0B1F3A&logo=academia&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/Location-Vienna%2C%20Austria-1E90FF?style=flat&labelColor=0B1F3A&logo=googlemaps&logoColor=white"/>
 </p>
-
 <p align="center">
-
-<a href="mailto:ssinashz@gmail.com" style="text-decoration:none; border: none;">
-<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-00BFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1F3A"/>
-</a>
-
-<a href="https://github.com/sinass00" style="text-decoration:none; border: none;">
-<img src="https://img.shields.io/badge/GitHub-Follow-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1F3A"/>
-</a>
-
+  <a href="mailto:ssinashz@gmail.com">
+    <img height="32" src="https://img.shields.io/badge/Email-Get%20in%20Touch-00BFFF?style=flat&logo=gmail&logoColor=white&labelColor=0B1F3A"/>
+  </a>
+  <a href="https://github.com/sinass00">
+    <img height="32" src="https://img.shields.io/badge/GitHub-Follow-1E90FF?style=flat&logo=github&logoColor=white&labelColor=0B1F3A"/>
+  </a>
 </p>
 </div>
 About Me
@@ -62,6 +51,26 @@ Cybersecurity & Networking
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kali,wireshark,burpsuite,linux,bash"/>
 </p>
 
+Featured Projects
+
+<div align="center">
+<a href="https://github.com/sinass00/sql_nosql">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinass00&repo=sql_nosql&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&icon_color=1F6FEB" />
+</a>
+<a href="https://github.com/sinass00/Numerical">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinass00&repo=Numerical&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&icon_color=1F6FEB" />
+</a>
+<!--
+To feature another repository, copy this block and change the repo name:
+
+<a href="https://github.com/sinass00/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinass00&repo=REPO_NAME&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&icon_color=1F6FEB" />
+</a>
+-->
+</div>
+ProjectDescriptionTechsql_nosqlWorking with relational and NoSQL databases — data modeling, queries, and comparisons between SQL and document-based approachesPython · MySQL · MongoDBNumericalNumerical methods and computational mathematics — implementing algorithms for solving mathematical problems programmaticallyMATLAB
+
+
 Core Competencies
 
 AreaTechnologies & SkillsBackend DevelopmentPython, Flask, Java, RESTful API DesignDatabasesSQL, MySQL, MongoDB, Data ModelingCybersecurityNmap, Metasploit, WireGuard, TCP/IP, SSH, Linux HardeningData & AIPython, NumPy, Data AnalysisSoftware EngineeringOOP, Design Patterns, Testing, Version Control (Git)
@@ -93,6 +102,7 @@ Contribution Activity
 <div align="center">
 
 "Engineering is not just about writing code — it is about designing reliable systems that solve real problems."
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A192F,50:0F4C75,100:00BFFF&section=footer" width="100%" />
