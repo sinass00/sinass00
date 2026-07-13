@@ -106,15 +106,8 @@ Contributing to open source projects
 
 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=sinass00&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
-<div align="center" style="margin-top:-100000px;">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinass00&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=1f6feb&hide_border=true&hide_title=true" width="100%" />
-
+<img src="https://streak-stats.demolab.com?user=sinass00&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinass00&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=1f6feb&hide_border=true&hide_title=true" width="100%" />
 </div>
 
 ---
