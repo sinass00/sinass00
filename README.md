@@ -102,18 +102,6 @@ Contributing to open source projects
 
 <br>
 
-<!-- ================= Contribution Snake ================= -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/sinass00/sinass00/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<br>
-
 <!-- ================= GitHub Analytics ================= -->
 
 <div align="center">
