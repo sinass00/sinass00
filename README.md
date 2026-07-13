@@ -3,27 +3,33 @@
   
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=140&lines=Computer+Science+Student;Backend+Engineering+%7C+Cybersecurity+%7C+Cloud" />
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=45&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1300&height=180&lines=Computer+Science+Student;Backend+Engineering+%7C+Cybersecurity+%7C+Cloud" />
+
 <p align="center">
 
-<img height="45" src="https://img.shields.io/badge/University-University%20of%20Vienna-1E90FF?style=flat&labelColor=0B1F3A&logo=google-scholar&logoColor=white"/>
+<img height="60" src="https://img.shields.io/badge/University-University%20of%20Vienna-1E90FF?style=flat&labelColor=0B1F3A&logo=google-scholar&logoColor=white"/>
 
-<img height="45" src="https://img.shields.io/badge/Degree-BSc%20Computer%20Science-1E90FF?style=flat&labelColor=0B1F3A&logo=academia&logoColor=white"/>
+<img height="60" src="https://img.shields.io/badge/Degree-BSc%20Computer%20Science-1E90FF?style=flat&labelColor=0B1F3A&logo=academia&logoColor=white"/>
 
-<img height="45" src="https://img.shields.io/badge/Location-Vienna%2C%20Austria-1E90FF?style=flat&labelColor=0B1F3A&logo=googlemaps&logoColor=white"/>
+<img height="60" src="https://img.shields.io/badge/Location-Vienna%2C%20Austria-1E90FF?style=flat&labelColor=0B1F3A&logo=googlemaps&logoColor=white"/>
 
 </p>
 
 <p align="center">
 
 <a href="mailto:ssinashz@gmail.com">
-<img height="45" src="https://img.shields.io/badge/Email-Get%20in%20Touch-00BFFF?style=flat&logo=gmail&logoColor=white&labelColor=0B1F3A"/>
+<img height="60" src="https://img.shields.io/badge/Email-Get%20in%20Touch-00BFFF?style=flat&logo=gmail&logoColor=white&labelColor=0B1F3A"/>
 </a>
 
 <a href="https://github.com/sinass00">
-<img height="45" src="https://img.shields.io/badge/GitHub-Follow-1E90FF?style=flat&logo=github&logoColor=white&labelColor=0B1F3A"/>
+<img height="60" src="https://img.shields.io/badge/GitHub-Follow-1E90FF?style=flat&logo=github&logoColor=white&labelColor=0B1F3A"/>
 </a>
 
 </p>
+
+</div>
 </div>
 About Me
 
