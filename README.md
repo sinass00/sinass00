@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-
-# Sina Shariatzdaeh 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Seyedsina%20Shz&fontSize=50&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Computer+Science+Student;Backend+Developer+%7C+Cybersecurity;Always+Learning+Something+New" />
 
@@ -69,7 +67,7 @@ I am continuously expanding my knowledge through academic projects, hands-on dev
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=flask,mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=flask,mysql,mongodb"/>
 
 </p>
 
