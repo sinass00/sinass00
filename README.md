@@ -114,8 +114,6 @@ Contributing to open source projects
 
 </div>
 
----
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A192F,50:0F4C75,100:00BFFF&section=footer" width="100%" />
