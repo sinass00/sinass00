@@ -92,13 +92,9 @@ Contributing to open source projects
 
 <h2 align="center"> GitHub Analytics</h2>
 
-<!-- ================= Contribution Calendar + Snake ================= -->
-
-<h2 align="center"> Contribution Calendar</h2>
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sinass00/sinass00/output/github-contribution-grid-snake-dark.svg" width="110%" />
+<img src="https://raw.githubusercontent.com/sinass00/sinass00/output/github-contribution-grid-snake-dark.svg" width="130%" />
 
 </div>
 
