@@ -89,6 +89,5 @@ Contribution Activity
 "Engineering is not just about writing code — it is about designing reliable systems that solve real problems."
 
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A192F,50:0F4C75,100:00BFFF&section=footer" width="100%" />
 </div>
