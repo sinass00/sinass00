@@ -90,7 +90,12 @@ Designing for cloud infrastructure and scalability
 Advanced database engineering and query optimization
 Contributing to open source projects
 
+LeetCode Sats
+<h2 align="center"> LeetCode</h2>
 
+<p align="center">
+  <img width="450" src="https://leetcard.jacoblin.cool/sina__shz?theme=dark&font=Poppins&ext=contest"/>
+</p>
 
 GitHub Stats
 
