@@ -19,6 +19,7 @@
 <a href="mailto:ssinashz@gmail.com" style="text-decoration:none; border: none;">
 <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-00BFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1F3A"/>
 </a>
+<a href="mailto:ssinashz@gmail.com"><img src="..."/></a>
 
 <a href="https://github.com/sinass00" style="text-decoration:none; border: none;">
 <img src="https://img.shields.io/badge/GitHub-Follow-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1F3A"/>
