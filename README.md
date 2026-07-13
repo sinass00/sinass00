@@ -111,7 +111,7 @@ Contributing to open source projects
 
 </div>
 
-<div align="center" style="margin-top:-1000px;">
+<div align="center" style="margin-top:-100000px;">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinass00&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=1f6feb&hide_border=true&hide_title=true" width="100%" />
 
