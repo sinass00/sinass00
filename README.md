@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Computer+Science+Student;Backend+Developer+%7C+Cybersecurity;Always+Learning+Something+New" />
 
 
+
 <p>
 
 <img src="https://img.shields.io/badge/University-University%20of%20Vienna-6C63FF?style=for-the-badge"/>
@@ -79,33 +80,27 @@ I am continuously expanding my knowledge through academic projects, hands-on dev
 
 </p>
 
-## 🛡️ Cybersecurity & Networking
+## Cybersecurity & Networking
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat&logo=wireshark&logoColor=white&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-4B8BBE?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-4B8BBE?style=flat&logo=nmap&logoColor=white&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/Kali%20Linux-Pentesting-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-Pentesting-557C94?style=flat&logo=kalilinux&logoColor=white&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/WireGuard-VPN-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>
+<img src="https://img.shields.io/badge/WireGuard-VPN-88171A?style=flat&logo=wireguard&logoColor=white&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat&logo=burpsuite&logoColor=white&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/Metasploit-Exploit%20Framework-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-Exploit%20Framework-2596CD?style=flat&labelColor=0D1117"/>
 
-</p>
+<img src="https://img.shields.io/badge/Linux-Security%20Environment-FCC624?style=flat&logo=linux&logoColor=black&labelColor=0D1117"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/TCP%2FIP-Networking-6C63FF?style=flat&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/Linux-Security%20Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/TCP%2FIP-Networking-6C63FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SSH-Remote%20Access-2C2D72?style=for-the-badge&logo=openssh&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-CI%2FCD-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSH-Remote%20Access-2C2D72?style=flat&logo=openssh&logoColor=white&labelColor=0D1117"/>
 
 </p>
 
