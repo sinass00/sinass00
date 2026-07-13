@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Seyedsina%20Shariatzadeh&fontSize=45&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&customColorList=12,18,24,30&color=gradient&text=Seyedsina%20Shariatzadeh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Computer+Science+Student;Backend+Developer+%7C+Cybersecurity;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Computer+Science+Student;Backend+Developer+%7C+Cybersecurity" />
 
 
 
