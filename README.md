@@ -97,7 +97,7 @@ Contributing to open source projects
 <img src="https://ghchart.rshah.org/1F6FEB/sinass00" width="100%" />
 
 </div>
-
+<p></p>
 <!-- ================= GitHub Analytics ================= -->
 
 <div align="center">
