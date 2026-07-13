@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Seyedsina%20Shz&fontSize=50&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Seyedsina%20Shariatzadeh&fontSize=45&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Computer+Science+Student;Backend+Developer+%7C+Cybersecurity;Always+Learning+Something+New" />
 
@@ -71,6 +71,23 @@ I am continuously expanding my knowledge through academic projects, hands-on dev
 
 </p>
 
+## Cybersecurity • Networking Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-2C2D72?style=for-the-badge&logo=nmap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kali%20Linux-Penetration%20Testing-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WireGuard-VPN-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Metasploit-Framework-2596CD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge"/>
+
+</p>
 
 ## Cloud • DevOps • Tools
 
