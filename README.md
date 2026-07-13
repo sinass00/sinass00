@@ -116,7 +116,7 @@ Contributing to open source projects
   <img src="https://streak-stats.demolab.com?user=sinass00&theme=github-dark-blue&hide_border=true" />
 
 </div>
-
+<br>
 <!-- ====================== Contribution Activity ====================== -->
 <div align="center">
 
