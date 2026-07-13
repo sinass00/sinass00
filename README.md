@@ -6,22 +6,26 @@
   
 <p align="center">
 
-<img src="https://img.shields.io/badge/University-University%20of%20Vienna-0F4C75?style=flat&labelColor=0A192F"/>
+<img src="https://img.shields.io/badge/University-University%20of%20Vienna-1E90FF?style=for-the-badge&labelColor=0B1F3A&logo=google-scholar&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Degree-BSc%20Computer%20Science-0F4C75?style=flat&labelColor=0A192F"/>
+<img src="https://img.shields.io/badge/Degree-BSc%20Computer%20Science-1E90FF?style=for-the-badge&labelColor=0B1F3A&logo=academia&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Location-Vienna%2C%20Austria-0F4C75?style=flat&labelColor=0A192F"/>
+<img src="https://img.shields.io/badge/Location-Vienna%2C%20Austria-1E90FF?style=for-the-badge&labelColor=0B1F3A&logo=googlemaps&logoColor=white"/>
 
 </p>
 
 <p align="center">
 
 <a href="mailto:ssinashz@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-00BFFF?style=flat&logo=gmail&logoColor=white&labelColor=0A192F"/>
+
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-00BFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1F3A"/>
+
 </a>
 
 <a href="https://github.com/sinass00">
-<img src="https://img.shields.io/badge/GitHub-Follow-0F4C75?style=flat&logo=github&logoColor=white&labelColor=0A192F"/>
+
+<img src="https://img.shields.io/badge/GitHub-Follow-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1F3A"/>
+
 </a>
 
 </p>
