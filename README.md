@@ -59,7 +59,7 @@ Cloud · DevOps · Tools
 Cybersecurity & Networking
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kali,wireshark,burpsuite,linux,bash"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kali,wireshark,nmap"/>
 </p>
 
 Featured Projects
