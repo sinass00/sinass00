@@ -94,7 +94,6 @@ Contributing to open source projects
 
 <!-- ==================== Contribution Calendar ==================== -->
 
-Contribution Calendar
 
 <div align="center">
 
@@ -120,7 +119,6 @@ Contribution Calendar
 
 <!-- ====================== Contribution Activity ====================== -->
 
-<h2 Contribution Activity>
 
 <div align="center">
 
