@@ -91,7 +91,9 @@ Advanced database engineering and query optimization
 Contributing to open source projects
 
 GitHub Stats
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinass00&bg_color=071A2B&color=00BFFF&line=1F6FEB&point=79C0FF&area=true&hide_border=true" width="100%" />
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinass00&theme=github_dark" width="100%" />
+</div>
 <br/><br/>  
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=sinass00&hide_border=true&background=0D1117&ring=00BFFF&fire=1F6FEB&currStreakLabel=00BFFF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
