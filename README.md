@@ -1,19 +1,28 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A192F,50:0F4C75,100:00BFFF&text=Seyedsina%20Shariatzadeh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Computer+Science+Student;Backend+Engineering+%7C+Cybersecurity+%7C+Cloud" />
+  
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Computer+Science+Student;Backend+Engineering+%7C+Cybersecurity+%7C+Cloud" />
+
 <p align="center">
-  <img height="32" src="https://img.shields.io/badge/University-University%20of%20Vienna-1E90FF?style=flat&labelColor=0B1F3A&logo=google-scholar&logoColor=white"/>
-  <img height="32" src="https://img.shields.io/badge/Degree-BSc%20Computer%20Science-1E90FF?style=flat&labelColor=0B1F3A&logo=academia&logoColor=white"/>
-  <img height="32" src="https://img.shields.io/badge/Location-Vienna%2C%20Austria-1E90FF?style=flat&labelColor=0B1F3A&logo=googlemaps&logoColor=white"/>
+
+<img height="38" src="https://img.shields.io/badge/University-University%20of%20Vienna-1E90FF?style=for-the-badge&labelColor=0B1F3A&logo=google-scholar&logoColor=white"/>
+
+<img height="38" src="https://img.shields.io/badge/Degree-BSc%20Computer%20Science-1E90FF?style=for-the-badge&labelColor=0B1F3A&logo=academia&logoColor=white"/>
+
+<img height="38" src="https://img.shields.io/badge/Location-Vienna%2C%20Austria-1E90FF?style=for-the-badge&labelColor=0B1F3A&logo=googlemaps&logoColor=white"/>
+
 </p>
+
 <p align="center">
-  <a href="mailto:ssinashz@gmail.com">
-    <img height="32" src="https://img.shields.io/badge/Email-Get%20in%20Touch-00BFFF?style=flat&logo=gmail&logoColor=white&labelColor=0B1F3A"/>
-  </a>
-  <a href="https://github.com/sinass00">
-    <img height="32" src="https://img.shields.io/badge/GitHub-Follow-1E90FF?style=flat&logo=github&logoColor=white&labelColor=0B1F3A"/>
-  </a>
-</p>
+
+<a href="mailto:ssinashz@gmail.com">
+<img height="38" src="https://img.shields.io/badge/Email-Get%20in%20Touch-00BFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1F3A"/>
+</a>
+
+<a href="https://github.com/sinass00">
+<img height="38" src="https://img.shields.io/badge/GitHub-Follow-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1F3A"/>
+</a>
+
 </div>
 About Me
 
