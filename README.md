@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Sina%20Shz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-# Sina Shz
+# Sina Shariatzdaeh 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Computer+Science+Student;Backend+Developer+%7C+Cybersecurity+Enthusiast;Building+Secure+Software+Systems;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Computer+Science+Student;Backend+Developer+%7C+Cybersecurity;Always+Learning+Something+New" />
+
 
 <p>
 
@@ -15,12 +16,12 @@
 </p>
 
 <p>
-
+<!--
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin"/>
 </a>
-
-<a href="ssinashz@gmail.com">
+-->
+<a href="mailto:ssinashz@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -30,15 +31,6 @@
 
 </p>
 
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=sinass00&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/followers/sinass00?style=for-the-badge&color=7F5AF0"/>
-
-<img src="https://img.shields.io/github/stars/sinass00?style=for-the-badge&color=6C63FF"/>
-
-</p>
 
 </div>
 
