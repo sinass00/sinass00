@@ -110,8 +110,6 @@ Contributing to open source projects
 
 </div>
 
-<br>
-
 <!-- ================= Contribution Activity ================= -->
 
 <div align="center">
