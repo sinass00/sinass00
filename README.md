@@ -7,7 +7,7 @@
 
 <img height="45" src="https://img.shields.io/badge/University-University%20of%20Vienna-1E90FF?style=flat&labelColor=0B1F3A&logo=google-scholar&logoColor=white"/>
 
-<img height="45" src="https://img.shields.io/badge/Degree-BSc%20Computer%20Science-1E90FF?style=flat&labelColor=0B1F3A&logo=academia&logoColor=white"/>
+<img height="45" src="https://img.shields.io/Degree-BSc%20Computer%20Science-1E90FF?style=flat&labelColor=0B1F3A&logo=academia&logoColor=white"/>
 
 <img height="45" src="https://img.shields.io/badge/Location-Vienna%2C%20Austria-1E90FF?style=flat&labelColor=0B1F3A&logo=googlemaps&logoColor=white"/>
 
