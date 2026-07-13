@@ -94,7 +94,7 @@ Contributing to open source projects
 
 <!-- ==================== Contribution Calendar ==================== -->
 
-<h2> Contribution Calendar</h2>
+Contribution Calendar
 
 <div align="center">
 
@@ -108,10 +108,6 @@ Contributing to open source projects
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sinass00&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinass00&layout=compact&theme=github_dark&hide_border=true" />
-
 </div>
 
 <br>
@@ -121,8 +117,6 @@ Contributing to open source projects
   <img src="https://streak-stats.demolab.com?user=sinass00&theme=github-dark-blue&hide_border=true" />
 
 </div>
-
----
 
 <!-- ====================== Contribution Activity ====================== -->
 
