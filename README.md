@@ -98,10 +98,9 @@ LeetCode Sats
 </p>
 
 GitHub Stats
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=sinass00&hide_border=true&background=071A2B&ring=00BFFF&fire=1F6FEB&currStreakLabel=00BFFF&sideLabels=C9D1D9&currStreakNum=C9D9FF&sideNums=C9D9FF&dates=6E7681&stroke=0B3A5B" />
+<img src="https://ghchart.rshah.org/00BFFF/sinass00" alt="Contribution calendar" width="100%" />
 </div>
-
+  
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=sinass00&hide_border=true&background=0D1117&ring=00BFFF&fire=1F6FEB&currStreakLabel=00BFFF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 </div>
