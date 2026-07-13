@@ -92,11 +92,11 @@ Contributing to open source projects
 
 GitHub Stats
 <div align="center">
+<img src="https://ghchart.rshah.org/2ea44f/sinass00" alt="Contribution calendar" width="100%" />
+</div>
+<div align="center">
 <img src="https://streak-stats.demolab.com/?user=sinass00&hide_border=true&background=0D1117&ring=00BFFF&fire=1F6FEB&currStreakLabel=00BFFF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 </div
-<div align="center">
-<img src="https://ghchart.rshah.org/238636/sinass00" alt="Contribution calendar" width="100%" />
-</div>
 Contribution Activity
 
 [![Sina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sinass00&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
