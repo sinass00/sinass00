@@ -92,8 +92,6 @@ Contributing to open source projects
 
 <h2 align="center"> GitHub Analytics</h2>
 
-<!-- ==================== Contribution Calendar ==================== -->
-
 <!-- ================= Contribution Calendar ================= -->
 
 <div align="center">
@@ -105,6 +103,8 @@ Contributing to open source projects
 <br>
 
 <!-- ================= Contribution Snake ================= -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
