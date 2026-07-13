@@ -1,6 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A192F,50:0F4C75,100:00BFFF&text=Seyedsina%20Shariatzadeh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Computer+Science+Student+%40+University+of+Vienna;Backend+Engineering+%7C+Cybersecurity+%7C+Cloud" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A192F,50:0F4C75,100:00BFFF&text=Seyedsina%20Shariatzadeh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Computer+Science+Student;Backend+Engineering+%7C+Cybersecurity+%7C+Cloud" />
+  
 <p align="center">
 
 <img src="https://img.shields.io/badge/University-University%20of%20Vienna-0F4C75?style=flat&labelColor=0A192F"/>
