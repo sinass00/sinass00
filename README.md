@@ -71,29 +71,41 @@ I am continuously expanding my knowledge through academic projects, hands-on dev
 
 </p>
 
-## Cybersecurity • Networking Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-2C2D72?style=for-the-badge&logo=nmap&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kali%20Linux-Penetration%20Testing-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/WireGuard-VPN-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Metasploit-Framework-2596CD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge"/>
-
-</p>
-
 ## Cloud • DevOps • Tools
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vscode"/>
+
+</p>
+
+## 🛡️ Cybersecurity & Networking
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-4B8BBE?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kali%20Linux-Pentesting-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WireGuard-VPN-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Metasploit-Exploit%20Framework-2596CD?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-Security%20Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/TCP%2FIP-Networking-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SSH-Remote%20Access-2C2D72?style=for-the-badge&logo=openssh&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-CI%2FCD-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
 
