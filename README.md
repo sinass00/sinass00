@@ -94,7 +94,7 @@ Contributing to open source projects
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sinass00/sinass00/output/github-contribution-grid-snake-dark.svg" width="130%" />
+<img src="https://ghchart.rshah.org/1F6FEB/sinass00" width="100%" />
 
 </div>
 
