@@ -92,6 +92,17 @@ Contributing to open source projects
 
 <h2 align="center"> GitHub Analytics</h2>
 
+<!-- ==================== Contribution Calendar ==================== -->
+
+<h2> Contribution Calendar</h2>
+
+<div align="center">
+
+  <img src="https://ghchart.rshah.org/0D47A1/sinass00" width="100%" />
+
+</div>
+
+
 <!-- ========================= GitHub Analytics ========================= -->
 
 
@@ -115,7 +126,7 @@ Contributing to open source projects
 
 <!-- ====================== Contribution Activity ====================== -->
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 Contribution Activity>
 
 <div align="center">
 
@@ -125,15 +136,7 @@ Contributing to open source projects
 
 ---
 
-<!-- ==================== Contribution Calendar ==================== -->
 
-<h2 align="center">📅 Contribution Calendar</h2>
-
-<div align="center">
-
-  <img src="https://ghchart.rshah.org/0D47A1/sinass00" width="100%" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A192F,50:0F4C75,100:00BFFF&section=footer" width="100%" />
 </div>
