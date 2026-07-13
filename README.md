@@ -90,16 +90,8 @@ Designing for cloud infrastructure and scalability
 Advanced database engineering and query optimization
 Contributing to open source projects
 
-LeetCode Sats
-<h2 align="center"> LeetCode</h2>
-
-<p align="center">
-  <img width="450" src="https://leetcard.jacoblin.cool/sina__shz?theme=dark&font=Poppins&ext=contest"/>
-</p>
-
 GitHub Stats
-<img src="https://ghchart.rshah.org/00BFFF/sinass00" alt="Contribution calendar" width="100%" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinass00&bg_color=071A2B&color=00BFFF&line=1F6FEB&point=79C0FF&area=true&hide_border=true" width="100%" />
 <br/><br/>  
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=sinass00&hide_border=true&background=0D1117&ring=00BFFF&fire=1F6FEB&currStreakLabel=00BFFF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
