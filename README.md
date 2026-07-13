@@ -94,6 +94,7 @@ Contributing to open source projects
 
 <!-- ==================== Contribution Calendar ==================== -->
 
+<!-- ================= Contribution Calendar ================= -->
 
 <div align="center">
 
@@ -101,13 +102,34 @@ Contributing to open source projects
 
 </div>
 
+<br>
 
-<!-- ========================= GitHub Analytics ========================= -->
-
+<!-- ================= Contribution Snake ================= -->
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=sinass00&theme=github-dark-blue&hide_border=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinass00&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=1f6feb&hide_border=true&hide_title=true" width="100%" />
+
+  <img src="https://raw.githubusercontent.com/sinass00/sinass00/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+<br>
+
+<!-- ================= GitHub Analytics ================= -->
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=sinass00&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br>
+
+<!-- ================= Contribution Activity ================= -->
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinass00&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=1f6feb&hide_border=true&hide_title=true" width="100%" />
+
 </div>
 
 ---
