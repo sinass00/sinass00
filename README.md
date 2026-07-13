@@ -68,7 +68,7 @@ I am continuously expanding my knowledge through academic projects, hands-on dev
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,rust,shell,bash"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,rust,bash"/>
 
 </p>
 
