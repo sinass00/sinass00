@@ -64,13 +64,6 @@ Cybersecurity & Networking
 
 Featured Projects
 
-<div align="center">
-<a href="https://github.com/sinass00/sql_nosql">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinass00&repo=sql_nosql&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&icon_color=1F6FEB" />
-</a>
-<a href="https://github.com/sinass00/Numerical">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinass00&repo=Numerical&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&icon_color=1F6FEB" />
-</a>
 <!--
 To feature another repository, copy this block and change the repo name:
 
