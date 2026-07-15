@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A192F,50:0F4C75,100:00BFFF&text=Seyedsina%20Shariatzadeh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
   
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Computer+Science+Student;Backend+Engineering+%7C+Cybersecurity+%7C+Cloud" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Computer+Science+Student;Data+Engineering+%7C+Cybersecurity+%7C+Cloud" />
 
 <p align="center">
 
